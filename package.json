@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-02-feedback",
+  "name": "react-blended-3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://b3dyk.github.io/goit-react-hw-02-feedback/",
+  "homepage": "https://b3dyk.github.io/react-blended-3/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
